@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently building web applications powered by LLM's for enhanced interactivity and automation.<br>
-🌟 Passionate about creating AI-driven solutions with a focus on NLP, computer vision, and blockchain.
+🌟 Passionate about creating AI-driven solutions with a focus on NLP, computer vision, and blockchain.<br>
 📚 Published researcher in blockchain and data science, always exploring cutting-edge technologies.
 
 
