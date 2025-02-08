@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭  I’m currently building web applications powered by LLMs and Gen AI for enhanced interactivity and automation.<br>
-🌟 Passionate about creating AI-driven solutions with a focus on LLMs, Gen AI, NLP, and blockchain.<br>
-📚 Published researcher in blockchain and data science, always exploring cutting-edge technologies.
+🔭 Currently building web applications powered by LLMs and Gen AI, enhancing interactivity and automation.<br>
+🌟 Passionate about AI-driven solutions, specializing in LLMs, Gen AI, NLP, and blockchain.<br>
+📚 Published researcher in blockchain and data science, constantly exploring cutting-edge technologies.
 
 
 ## 🌐 Socials:
