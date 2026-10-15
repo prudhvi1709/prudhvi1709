@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="670" viewBox="0 0 600 670" role="img" aria-labelledby="title desc"><title id="title">Context becomes action.</title><desc id="desc">CONTEXT: Recover decisions. PLAN: Choose next steps. BUILD: Apply the change. VERIFY: Inspect the result. A single 4.6-second walkthrough, then a still overview.</desc><style>
+      .stage{animation:activate 1.8s ease both;animation-delay:var(--delay)}
+      .progress{stroke-dasharray:174;animation:draw 1.8s ease both;animation-delay:var(--delay)}
+      .packet{animation:packet 4.6s linear both}
+      @keyframes activate{from{opacity:.35}to{opacity:1}}
+      @keyframes draw{from{stroke-dashoffset:174}to{stroke-dashoffset:0}}
+      @keyframes packet{0%,95%{opacity:1}100%{opacity:0}}
+      @media(prefers-reduced-motion:reduce){.stage,.progress{animation:none}.packet{display:none}}
+    </style><g font-family="Arial,Helvetica,sans-serif"><rect width="600" height="670" rx="12" fill="#101b2a"/>
+      <text x="36" y="45" fill="#bac6d5" font-size="16" letter-spacing="1.3" font-family="Consolas,monospace">AGENTS TOOLKIT / A REPRESENTATIVE WORKFLOW</text>
+      <text x="36" y="96" fill="#f4f0e8" font-size="30" font-weight="700">Context becomes action.</text><path d="M250 231H350" fill="none" stroke="#58708f" stroke-width="2" stroke-dasharray="4 6"/><path d="M455 316V404" fill="none" stroke="#58708f" stroke-width="2" stroke-dasharray="4 6"/><path d="M350 489H250" fill="none" stroke="#58708f" stroke-width="2" stroke-dasharray="4 6"/><g class="stage s0" style="--delay:0s">
+        <rect x="40" y="146" width="210" height="170" rx="12" fill="#19283c" stroke="#ff945a" stroke-width="1.5"/>
+        <circle cx="76" cy="183" r="16" fill="#ff945a"/>
+        <text x="76" y="189" text-anchor="middle" fill="#101b2a" font-size="18" font-weight="700">1</text>
+        <path d="M112 177h98m-98 12h66" fill="none" stroke="#748ca9" stroke-width="2"/>
+        <text x="58" y="240" fill="#f4f0e8" font-size="25" font-weight="700">CONTEXT</text>
+        <text x="58" y="277" fill="#bac6d5" font-size="19">Recover decisions</text>
+        <path class="progress" d="M58 297h174" stroke="#ff945a" stroke-width="3"/>
+      </g><g class="stage s1" style="--delay:0.65s">
+        <rect x="350" y="146" width="210" height="170" rx="12" fill="#19283c" stroke="#ff945a" stroke-width="1.5"/>
+        <circle cx="386" cy="183" r="16" fill="#ff945a"/>
+        <text x="386" y="189" text-anchor="middle" fill="#101b2a" font-size="18" font-weight="700">2</text>
+        <path d="M422 177h98m-98 12h66" fill="none" stroke="#748ca9" stroke-width="2"/>
+        <text x="368" y="240" fill="#f4f0e8" font-size="25" font-weight="700">PLAN</text>
+        <text x="368" y="277" fill="#bac6d5" font-size="19">Choose next steps</text>
+        <path class="progress" d="M368 297h174" stroke="#ff945a" stroke-width="3"/>
+      </g><g class="stage s2" style="--delay:1.3s">
+        <rect x="350" y="404" width="210" height="170" rx="12" fill="#19283c" stroke="#ff945a" stroke-width="1.5"/>
+        <circle cx="386" cy="441" r="16" fill="#ff945a"/>
+        <text x="386" y="447" text-anchor="middle" fill="#101b2a" font-size="18" font-weight="700">3</text>
+        <path d="M422 435h98m-98 12h66" fill="none" stroke="#748ca9" stroke-width="2"/>
+        <text x="368" y="498" fill="#f4f0e8" font-size="25" font-weight="700">BUILD</text>
+        <text x="368" y="535" fill="#bac6d5" font-size="19">Apply the change</text>
+        <path class="progress" d="M368 555h174" stroke="#ff945a" stroke-width="3"/>
+      </g><g class="stage s3" style="--delay:1.9500000000000002s">
+        <rect x="40" y="404" width="210" height="170" rx="12" fill="#19283c" stroke="#ff945a" stroke-width="1.5"/>
+        <circle cx="76" cy="441" r="16" fill="#ff945a"/>
+        <text x="76" y="447" text-anchor="middle" fill="#101b2a" font-size="18" font-weight="700">4</text>
+        <path d="M112 435h98m-98 12h66" fill="none" stroke="#748ca9" stroke-width="2"/>
+        <text x="58" y="498" fill="#f4f0e8" font-size="25" font-weight="700">VERIFY</text>
+        <text x="58" y="535" fill="#bac6d5" font-size="19">Inspect the result</text>
+        <path class="progress" d="M58 555h174" stroke="#ff945a" stroke-width="3"/>
+      </g><g class="packet"><circle r="7" fill="#ff945a"><animateMotion dur="4.6s" repeatCount="1" fill="freeze" path="M145 231H455V489H145" calcMode="linear"/></circle></g><text x="36" y="642" fill="#bac6d5" font-size="16" font-family="Consolas,monospace">ONE PASS, THEN THE COMPLETE FLOW</text></g></svg>
