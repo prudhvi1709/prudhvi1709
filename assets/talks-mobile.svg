@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="650" viewBox="0 0 600 650" role="img" aria-labelledby="title"><title id="title">Talks &amp; workshops. Applied AI. Better evaluation. Learning by building in public. SLIDES, RECORDINGS &amp; EXAMPLES.</title><g font-family="Arial,Helvetica,sans-serif"><style>
+      .tool-module{animation:unpack 4.8s ease-in-out both}
+      .presentation{animation:present 3.6s ease-out both}
+      .screen-lines,.broadcast{stroke-dasharray:200;animation:draw-screen 4.2s ease-out both}
+      .news-sheet{animation:publish 3.6s ease-out both;animation-delay:var(--delay)}
+      @keyframes unpack{0%,100%{transform:translateY(0px)}30%,60%{transform:translateY(var(--lift))}}
+      @keyframes present{0%{opacity:.25;transform:translateY(7px)}40%,100%{opacity:1;transform:translateY(0px)}}
+      @keyframes draw-screen{0%{stroke-dashoffset:200}65%,100%{stroke-dashoffset:0}}
+      @keyframes publish{0%{transform:translate(10px,-16px);opacity:.3}70%,100%{transform:translate(0px,0px);opacity:1}}
+      @media(prefers-reduced-motion:reduce){.tool-module,.presentation,.screen-lines,.broadcast,.news-sheet{animation:none}}
+      </style><rect width="600" height="650" rx="12" fill="#f2eee5"/>
+      <text x="32" y="49" fill="#485568" font-size="19" font-family="ui-monospace,Consolas,monospace" letter-spacing="2">02 / IDEAS WORTH SHARING</text>
+      <text x="32" y="112" fill="#182337" font-size="50" font-weight="750" letter-spacing="-2">Talks &amp; workshops</text>
+      <text x="32" y="162" fill="#182337" font-size="30" >Applied AI. Better evaluation.</text>
+      <text x="32" y="199" fill="#182337" font-size="30" >Learning by building in public.</text>
+      <text x="32" y="259" fill="#485568" font-size="20" font-family="ui-monospace,Consolas,monospace" letter-spacing="2">THE FIFTH ELEPHANT / APPLIED AI</text>
+      <path d="M32 294H568" stroke="#485568" stroke-opacity=".25"/>
+      <g transform="translate(115 310)"><g transform="translate(16 12)">
+    <path d="M20 195L209 260L347 181L156 116Z" fill="#d2cbbd"/>
+    <path d="M20 195V219L209 285V260Z" fill="#c3b9a7"/>
+    <path d="M209 260V285L347 205V181Z" fill="#a7a090"/>
+    <path d="M58 56L255 112V226L58 170Z" fill="#182337"/>
+    <path d="M58 56L73 48L269 104L255 112Z" fill="#455169"/>
+    <path d="M255 112L269 104V218L255 226Z" fill="#101b2a"/>
+    <g transform="matrix(1 .285 0 1 76 89)">
+      <g class="presentation"><text x="0" y="0" fill="#f4f0e8" font-size="23" font-weight="700">GOOD ENOUGH</text>
+      <text x="0" y="30" fill="#ff945a" font-size="27" font-weight="700">FOR WHAT?</text>
+      <path class="screen-lines" d="M0 58h152M0 71h98" stroke="#7f91a8" stroke-width="3"/></g>
+    </g>
+    <path d="M270 185v-62q0-18 12-15t12 24v15" stroke="#182337" fill="none" stroke-width="5"/>
+    <path d="M265 189l18 5" stroke="#182337" stroke-width="7"/>
+    <path d="M86 217l100 34M106 203l100 34M126 189l100 34" stroke="#f2eee5" stroke-width="6"/>
+  </g></g>
+      <text x="32" y="617" fill="#a83c13" font-size="22" font-family="ui-monospace,Consolas,monospace" letter-spacing="2">SLIDES, RECORDINGS &amp; EXAMPLES</text>
+      <path d="M530 611h24m-10-10 10 10-10 10" fill="none" stroke="#a83c13" stroke-width="3"/></g></svg>

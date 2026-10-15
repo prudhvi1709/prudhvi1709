@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title"><title id="title">Dailynews. RSS to an AI-assisted news digest. Collected, ranked and delivered. READ THE DIGEST.</title><g font-family="Arial,Helvetica,sans-serif"><style>
+      .tool-module{animation:unpack 4.8s ease-in-out both}
+      .presentation{animation:present 3.6s ease-out both}
+      .screen-lines,.broadcast{stroke-dasharray:200;animation:draw-screen 4.2s ease-out both}
+      .news-sheet{animation:publish 3.6s ease-out both;animation-delay:var(--delay)}
+      @keyframes unpack{0%,100%{transform:translateY(0px)}30%,60%{transform:translateY(var(--lift))}}
+      @keyframes present{0%{opacity:.25;transform:translateY(7px)}40%,100%{opacity:1;transform:translateY(0px)}}
+      @keyframes draw-screen{0%{stroke-dashoffset:200}65%,100%{stroke-dashoffset:0}}
+      @keyframes publish{0%{transform:translate(10px,-16px);opacity:.3}70%,100%{transform:translate(0px,0px);opacity:1}}
+      @media(prefers-reduced-motion:reduce){.tool-module,.presentation,.screen-lines,.broadcast,.news-sheet{animation:none}}
+      </style><rect width="1200" height="370" rx="12" fill="#2455cb"/>
+      <text x="48" y="66" fill="#e0e8ff" font-size="19" font-family="ui-monospace,Consolas,monospace" letter-spacing="2">03 / SIGNAL FROM THE NOISE</text>
+      <text x="48" y="142" fill="#f4f0e8" font-size="62" font-weight="750" letter-spacing="-2">Dailynews</text>
+      <text x="48" y="192" fill="#f4f0e8" font-size="28" >RSS to an AI-assisted news digest.</text>
+      <text x="48" y="229" fill="#f4f0e8" font-size="28" >Collected, ranked and delivered.</text>
+      <text x="48" y="284" fill="#e0e8ff" font-size="19" font-family="ui-monospace,Consolas,monospace" letter-spacing="2">RSS / LLMs / GITHUB ACTIONS</text>
+      <path d="M48 311H1152" stroke="#e0e8ff" stroke-opacity=".25"/>
+      <g transform="translate(795 31) scale(1.1)"><g transform="translate(55 70)"><g class="news-sheet" style="--delay:0s"><path d="M0 0L190 42V220L0 178Z" fill="#102d78"/><path d="M0 -7L190 35V211L0 169Z" fill="#f4f0e8"/><path d="M18 16L167 49V88L18 55Z" fill="#ff945a"/><path d="M18 79l149 33M18 94l92 20M18 115l149 33M18 130l149 33" stroke="#8997af" stroke-width="4"/><path d="M18 151l72 16" stroke="#2455cb" stroke-width="4"/></g></g><g transform="translate(73 48)"><g class="news-sheet" style="--delay:0.35s"><path d="M0 0L190 42V220L0 178Z" fill="#102d78"/><path d="M0 -7L190 35V211L0 169Z" fill="#f4f0e8"/><path d="M18 16L167 49V88L18 55Z" fill="#ff945a"/><path d="M18 79l149 33M18 94l92 20M18 115l149 33M18 130l149 33" stroke="#8997af" stroke-width="4"/><path d="M18 151l72 16" stroke="#2455cb" stroke-width="4"/></g></g><g transform="translate(91 26)"><g class="news-sheet" style="--delay:0.7s"><path d="M0 0L190 42V220L0 178Z" fill="#102d78"/><path d="M0 -7L190 35V211L0 169Z" fill="#f4f0e8"/><path d="M18 16L167 49V88L18 55Z" fill="#ff945a"/><path d="M18 79l149 33M18 94l92 20M18 115l149 33M18 130l149 33" stroke="#8997af" stroke-width="4"/><path d="M18 151l72 16" stroke="#2455cb" stroke-width="4"/></g></g><g transform="translate(295 40)"><circle r="38" fill="#101b2a"/><circle cx="-12" cy="12" r="4" fill="#ff945a"/><path class="broadcast" d="M-14 -3a17 17 0 0 1 17 17M-14 -16a30 30 0 0 1 30 30" stroke="#ff945a" stroke-width="5" fill="none"/></g></g>
+      <text x="48" y="342" fill="#ffe1b5" font-size="17" font-family="ui-monospace,Consolas,monospace" letter-spacing="2">READ THE DIGEST</text>
+      <path d="M1130 335h24m-10-10 10 10-10 10" fill="none" stroke="#ffe1b5" stroke-width="3"/></g></svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="670" viewBox="0 0 600 670" role="img" aria-labelledby="title desc"><title id="title">Sources become a daily digest.</title><desc id="desc">COLLECT: Gather RSS stories. RANK: Find relevant items. SUMMARIZE: Build the digest. DELIVER: Email and archive. Still overview.</desc><g font-family="Arial,Helvetica,sans-serif"><rect width="600" height="670" rx="12" fill="#101b2a"/>
+      <text x="36" y="45" fill="#bac6d5" font-size="16" letter-spacing="1.3" font-family="Consolas,monospace">DAILYNEWS / THE PUBLISHING FLOW</text>
+      <text x="36" y="96" fill="#f4f0e8" font-size="30" font-weight="700">Sources become a daily digest.</text><path d="M250 231H350" fill="none" stroke="#58708f" stroke-width="2" stroke-dasharray="4 6"/><path d="M455 316V404" fill="none" stroke="#58708f" stroke-width="2" stroke-dasharray="4 6"/><path d="M350 489H250" fill="none" stroke="#58708f" stroke-width="2" stroke-dasharray="4 6"/><g class="stage s0" style="--delay:0s">
+        <rect x="40" y="146" width="210" height="170" rx="12" fill="#19283c" stroke="#ffcf8a" stroke-width="1.5"/>
+        <circle cx="76" cy="183" r="16" fill="#ffcf8a"/>
+        <text x="76" y="189" text-anchor="middle" fill="#101b2a" font-size="18" font-weight="700">1</text>
+        <path d="M112 177h98m-98 12h66" fill="none" stroke="#748ca9" stroke-width="2"/>
+        <text x="58" y="240" fill="#f4f0e8" font-size="25" font-weight="700">COLLECT</text>
+        <text x="58" y="277" fill="#bac6d5" font-size="19">Gather RSS stories</text>
+        <path class="progress" d="M58 297h174" stroke="#ffcf8a" stroke-width="3"/>
+      </g><g class="stage s1" style="--delay:0.65s">
+        <rect x="350" y="146" width="210" height="170" rx="12" fill="#19283c" stroke="#ffcf8a" stroke-width="1.5"/>
+        <circle cx="386" cy="183" r="16" fill="#ffcf8a"/>
+        <text x="386" y="189" text-anchor="middle" fill="#101b2a" font-size="18" font-weight="700">2</text>
+        <path d="M422 177h98m-98 12h66" fill="none" stroke="#748ca9" stroke-width="2"/>
+        <text x="368" y="240" fill="#f4f0e8" font-size="25" font-weight="700">RANK</text>
+        <text x="368" y="277" fill="#bac6d5" font-size="19">Find relevant items</text>
+        <path class="progress" d="M368 297h174" stroke="#ffcf8a" stroke-width="3"/>
+      </g><g class="stage s2" style="--delay:1.3s">
+        <rect x="350" y="404" width="210" height="170" rx="12" fill="#19283c" stroke="#ffcf8a" stroke-width="1.5"/>
+        <circle cx="386" cy="441" r="16" fill="#ffcf8a"/>
+        <text x="386" y="447" text-anchor="middle" fill="#101b2a" font-size="18" font-weight="700">3</text>
+        <path d="M422 435h98m-98 12h66" fill="none" stroke="#748ca9" stroke-width="2"/>
+        <text x="368" y="498" fill="#f4f0e8" font-size="25" font-weight="700">SUMMARIZE</text>
+        <text x="368" y="535" fill="#bac6d5" font-size="19">Build the digest</text>
+        <path class="progress" d="M368 555h174" stroke="#ffcf8a" stroke-width="3"/>
+      </g><g class="stage s3" style="--delay:1.9500000000000002s">
+        <rect x="40" y="404" width="210" height="170" rx="12" fill="#19283c" stroke="#ffcf8a" stroke-width="1.5"/>
+        <circle cx="76" cy="441" r="16" fill="#ffcf8a"/>
+        <text x="76" y="447" text-anchor="middle" fill="#101b2a" font-size="18" font-weight="700">4</text>
+        <path d="M112 435h98m-98 12h66" fill="none" stroke="#748ca9" stroke-width="2"/>
+        <text x="58" y="498" fill="#f4f0e8" font-size="25" font-weight="700">DELIVER</text>
+        <text x="58" y="535" fill="#bac6d5" font-size="19">Email and archive</text>
+        <path class="progress" d="M58 555h174" stroke="#ffcf8a" stroke-width="3"/>
+      </g><text x="36" y="642" fill="#bac6d5" font-size="16" font-family="Consolas,monospace">THE COMPLETE FLOW</text></g></svg>
